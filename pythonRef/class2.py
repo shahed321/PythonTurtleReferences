@@ -26,4 +26,6 @@ drawing = Class2()
 drawing.draw_square(100)
 drawing.draw_circle(50)
 drawing.draw_triangle(120)
-drawing.close_window()
+## drawing.close_window()
+
+turtle.done()
